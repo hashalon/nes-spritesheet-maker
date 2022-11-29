@@ -18,7 +18,6 @@ class Parser(val sources: Array<Path>, val mode16: Boolean) {
 
     }
 
-
     // process the images sources to extract tiles
     fun extractTiles() {
 
